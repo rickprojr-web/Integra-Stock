@@ -12,11 +12,12 @@ O Sistema de Estoque Inteligente MRO é um projeto de desenvolvimento web que te
 •	Utilizar recursos de inteligência artificial para auxiliar no controle de estoque.
 3. Funcionalidades principais
 1.	Controle de acesso: áreas de acesso distintas para funcionários da manutenção, estoque e gerência.
-2.	Dashboard: painel com informações sobre solicitações, peças, ordens de serviço e itens com estoque baixo.
-3.	Gerenciamento de estoque: cadastro e consulta de peças com código MRO, descrição, quantidade, localização e estoque mínimo.
-4.	Solicitações de materiais: comunicação entre os setores de manutenção e estoque.
-5.	Ordens de serviço: acompanhamento das atividades de manutenção.
-6.	Inteligência artificial: proposta de uso de câmera e IA para auxiliar na identificação e contagem de materiais.
+2.	![controle de acesso](img/Tela-Inicial.png)
+4.	Dashboard: painel com informações sobre solicitações, peças, ordens de serviço e itens com estoque baixo.
+5.	Gerenciamento de estoque: cadastro e consulta de peças com código MRO, descrição, quantidade, localização e estoque mínimo.
+6.	Solicitações de materiais: comunicação entre os setores de manutenção e estoque.
+7.	Ordens de serviço: acompanhamento das atividades de manutenção.
+8.	Inteligência artificial: proposta de uso de câmera e IA para auxiliar na identificação e contagem de materiais.
 4. Tecnologias utilizadas
 •	HTML5 – estruturação das páginas.
 •	CSS3 – estilização e organização visual.
